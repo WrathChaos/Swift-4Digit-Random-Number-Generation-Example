@@ -4,6 +4,7 @@
 //
 //  Created by Kuray on 3.03.2020.
 //  Copyright © 2020 Coursion. All rights reserved.
+//  Github: https://github.com/WrathChaos/Swift-4Digit-Random-Number-Generation-Example
 //
 
 import UIKit
